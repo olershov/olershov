@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&duration=1500&pause=0&color=770A8F&background=F0FEFF&center=false&vCenter=false&multiline=true&repeat=false&random=false&width=1010&height=120&lines=;Hello!;I'm+Ershov+Oleg+%F0%9F%91%8B;Java-developer+from+Russia.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&duration=1500&pause=0&color=770A8F&background=F0FEFF&center=false&vCenter=false&multiline=true&repeat=false&random=false&width=1010&height=120&lines=;Hello!;I'm+Oleg+%F0%9F%91%8B;Java-developer+from+Russia.)](https://git.io/typing-svg)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Basic tools and technologies
